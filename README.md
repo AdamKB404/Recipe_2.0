@@ -1,2 +1,2 @@
 # Recipe_2.0
-Basic HTML
+Basic HTML and CSS
